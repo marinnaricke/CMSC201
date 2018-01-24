@@ -1,0 +1,43 @@
+Question 1:
+1. Write down all the numbers between 1 and 7.
+2. Divide 7 by each number starting with the number 1.
+3. Record the outcome of each division including the remainder.
+4. Isolate the outcomes that have a remainder of zero.
+5. If 7 divided by 1 is the only outcome that has a remainder of zero, then 7
+   is a prime number.
+6. If 7 divided by 1 is not the only outcome that has a remainder of zero,
+   then 7 is not prime.
+
+Question 2:
+1. Write down all the numbers between 1 and the given number.
+2. Divide the given number by each number starting with 1.
+3. Record the outcome of each division including the remainder.
+4. Isolate the outcomes that have a remainder of zero.
+5. If the given number divided by 1 is the only outcome that has a reaminder
+   of zero, the given number is a prime.
+6. If step 5 is false, the given number is not prime.
+
+Question 3:
+1. Compare the first letter with the last letter of the word.
+2. If the two letters are the same, continue to step 3. If different, the word
+   is not a palindrome.
+3. Compare the second letter with the second to last letter of the word.
+4. If the two letters are the same, continue to step 4.
+5. Continue comparing letters until you reach the center of the word.
+6. If all the letters are the same, the word is a palindrome.
+
+Question 4:
+1. View the first notecard in the stack.
+2. Set this first notecard to the left of the main stack.
+3. View the next notecard in the main stack.
+4. If the number on this notecard is higher then the previous, set this
+   notecard on the stack to the left.
+5. If step 4 is false, set the card to the right of the main stack.
+5. Repeat steps 3 through 5 until all the cards in the main stack are gone.
+6. The card with the highest number is on the top of the left stack.
+
+Question 5:
+1. Write down the number you are given.
+2. Write down the given number and all the numbers before it including 1.
+3. Multiply all the numbers between 1 and the given number.
+4. The product of the numbers is the factorial.
